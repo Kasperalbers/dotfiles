@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kasper_albers@hotmail.com
+	name = Kasper Albers
